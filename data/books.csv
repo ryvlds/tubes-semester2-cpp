@@ -1,1 +1,11 @@
-id,judul,status
+id,judul,statid,title,author,stock
+B001,Laskar Pelangi,Andrea Hirata,10
+B002,Bumi,Tere Liye,8
+B003,Dilan 1990,Pidi Baiq,5
+B004,Negeri 5 Menara,Ahmad Fuadi,7
+B005,Ronggeng Dukuh Paruk,Ahmad Tohari,6
+B006,Pulang,Tere Liye,9
+B007,Hujan,Tere Liye,12
+B008,Ayat Ayat Cinta,Habiburrahman El Shirazy,4
+B009,Perahu Kertas,Dee Lestari,11
+B010,5 CM,Donny Dhirgantoro,3
